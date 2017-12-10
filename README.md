@@ -1,6 +1,7 @@
-# Quick development template on Drupal 8
+# Drupal 8 development stack
 
-inspired by [Thunder](https://www.drupal.org/project/thunder) and Acquia [Lightning](https://www.drupal.org/project/lightning).
+Prepared for usually cases like a middle websites, magazines.
+Inspired by [Thunder](https://www.drupal.org/project/thunder) and Acquia [Lightning](https://www.drupal.org/project/lightning).
 
 ## Quick start
 
