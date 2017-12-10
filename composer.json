@@ -31,7 +31,9 @@
         "drupal/admin_toolbar": "^1.19",
         "drupal/tablefield": "^2.0@alpha",
         "drupal/paragraphs": "^1.1",
-        "drupal/webform": "^5.0@beta"
+        "drupal/webform": "^5.0@beta",
+        "drupal/pathauto": "^1.0",
+        "drupal/metatag": "^1.0"
     },
     "require-dev": {
         "behat/mink": "~1.7",
@@ -48,7 +50,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "config": {
-        "sort-packages": true,
         "bin-dir": "bin/"
     },
     "autoload": {
@@ -72,6 +73,10 @@
         ]
     },
     "extra": {
+        "installer-types": [
+            "bower-asset",
+            "npm-asset"
+        ],
         "installer-paths": {
             "drush/contrib/{$name}": ["type:drupal-drush"],
             "web/core": ["type:drupal-core"],
@@ -80,6 +85,8 @@
             "web/themes/contrib/{$name}": ["type:drupal-theme"],
             "web/libraries/{$name}": [
                 "type:drupal-library",
+                "type:bower-asset",
+                "type:npm-asset",
                 "vendor:bower-asset",
                 "vendor:npm-asset",
                 "npm-asset/dropzone",
@@ -88,6 +95,5 @@
         }
     },
     "enable-patching": true,
-    "patches": {
-    }    
+    "patches": {}
 }
