@@ -85,11 +85,11 @@
         ],
         "installer-paths": {
             "drush/contrib/{$name}": ["type:drupal-drush"],
-            "docroot/core": ["type:drupal-core"],
-            "docroot/modules/contrib/{$name}": ["type:drupal-module"],
-            "docroot/profiles/contrib/{$name}": ["type:drupal-profile"],
-            "docroot/themes/contrib/{$name}": ["type:drupal-theme"],
-            "docroot/libraries/{$name}": [
+            "public/core": ["type:drupal-core"],
+            "public/modules/contrib/{$name}": ["type:drupal-module"],
+            "public/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "public/themes/contrib/{$name}": ["type:drupal-theme"],
+            "public/libraries/{$name}": [
                 "type:drupal-library",
                 "type:bower-asset",
                 "type:npm-asset",
