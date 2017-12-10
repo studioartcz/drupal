@@ -43,3 +43,9 @@ and for next steps please follow our [development manual](./.docs/development.md
 ## Future?
 
 Read project [issues](https://github.com/studioartcz/drupal/issues) and let send your ideas, replies, ...
+
+## Why Drupal 8?
+
+only with Czech speech
+
+[![Drupal CZ Brno 2017 Meetup](http://img.youtube.com/vi/DnQjnqFo1z8/0.jpg)](https://www.youtube.com/watch?v=DnQjnqFo1z8 "První projekt očima nedrupalisty")
