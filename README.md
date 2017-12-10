@@ -1,6 +1,6 @@
 # Quick development template on Drupal 8
 
-based on [Lightning](https://www.drupal.org/project/lightning) by Acquia, inspired by [Thunder](https://www.drupal.org/project/thunder).
+inspired by [Thunder](https://www.drupal.org/project/thunder) and Acquia [Lightning](https://www.drupal.org/project/lightning).
 
 ## What this stack solving?
 
