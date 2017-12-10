@@ -2,6 +2,12 @@
 
 inspired by [Thunder](https://www.drupal.org/project/thunder) and Acquia [Lightning](https://www.drupal.org/project/lightning).
 
+## Usage
+
+```
+composer create-project studioartcz/drupal domain.local --stability dev --no-interaction
+```
+
 ## What this stack solving?
 
 - multi-language support by default (english is default)
