@@ -10,7 +10,7 @@ composer create-project studioartcz/drupal domain.local --stability dev --no-int
 ```
 <sup>* domain.local is your virtual host folder</sup>
 
-and for next steps please follow our [development manual](./.doc/development.md).
+and for next steps please follow our [development manual](./.docs/development.md).
 
 ## What this stack solving?
 
