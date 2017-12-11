@@ -32,6 +32,7 @@ and for next steps please follow our [development manual](./.docs/development.md
 - [Path Auto](https://www.drupal.org/project/pathauto)
 - [Metatag](https://www.drupal.org/project/metatag)
 - [Crop](https://www.drupal.org/project/crop) & [Image Widget Crop](https://www.drupal.org/project/image_widget_crop)
+- [GraphQL](https://www.drupal.org/project/graphql) & [JWT](https://www.drupal.org/project/jwt)
 - [Config Split](https://www.drupal.org/project/config_split)
 - [Config Read Only](https://www.drupal.org/project/config_readonly)
 - [Stage File Proxy](https://www.drupal.org/project/stage_file_proxy)
@@ -39,6 +40,8 @@ and for next steps please follow our [development manual](./.docs/development.md
 - [Console](https://drupalconsole.com/)
 - [Raven](https://www.drupal.org/project/raven)
 - [Chosen](https://www.drupal.org/project/chosen)
+- [TableField](https://www.drupal.org/project/tablefield)
+- [Media entity](https://www.drupal.org/project/media_entity)
 
 ## Future?
 
